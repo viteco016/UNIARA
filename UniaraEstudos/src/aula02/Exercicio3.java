@@ -2,6 +2,8 @@ package aula02;
 
 import java.util.Scanner;
 
+// Crie um programa que receba 2 números e um operador (+, -. *, /) e faça a respectiva operação.
+
 public class Exercicio3 {
 
 	public static void main(String[] args) {
