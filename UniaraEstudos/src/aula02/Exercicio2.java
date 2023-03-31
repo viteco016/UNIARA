@@ -2,6 +2,8 @@ package aula02;
 
 import javax.swing.JOptionPane;
 
+// Crie um programa que mostre se o número é par ou impar.
+
 public class Exercicio2 {
 	public static void main(String[] args) {
 		
